@@ -4,7 +4,7 @@ Aplicación que cuenta con 7 preguntas, 1 por cada maravilla del mundo moderno. 
 
 ## Imágenes demostración
 
-[![Alt text](https://github.com/DavidMateosSanchez/7WondersQuizApp/blob/d3a645775bc50177f36a396f08c768784e04d8ba/fotosJuntas.png)]
+![Alt text](https://github.com/DavidMateosSanchez/7WondersQuizApp/blob/d3a645775bc50177f36a396f08c768784e04d8ba/fotosJuntas.png)
 
 ## Tecnologías y herramientas utilizadas ⚡
 
